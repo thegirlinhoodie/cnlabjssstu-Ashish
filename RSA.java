@@ -1,4 +1,4 @@
-import java.util.Scanner;;
+import java.util.Scanner;
 import java.math.BigInteger;
 import java.security.SecureRandom;
 public class RSA{
